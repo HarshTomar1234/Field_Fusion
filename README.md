@@ -3,4 +3,4 @@ Introducing FieldFusion:  A game-changing Computer Vision System that uses AI to
 
 
 
-![Screenshot](output_videos/screenshot.png)
+![Screenshot](output_videos/Screenshot.png)
