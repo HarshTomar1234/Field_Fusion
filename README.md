@@ -10,7 +10,7 @@ The goal of this project is to detect and track players, referees, and footballs
 -  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
 
 ## Output video
--  [output video]([https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing](https://drive.google.com/file/d/1wTchos7ReXpUz1dJU-Bu2f04G9KvDp16/view?usp=sharing))
+-  [output video](https://drive.google.com/file/d/1wTchos7ReXpUz1dJU-Bu2f04G9KvDp16/view?usp=sharing)
 
 
 ## Modules Used
